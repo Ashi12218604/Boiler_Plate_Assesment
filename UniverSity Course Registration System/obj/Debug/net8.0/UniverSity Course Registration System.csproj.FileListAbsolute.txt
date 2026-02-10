@@ -1,0 +1,15 @@
+C:\All semesters\Training\Boiler_Plate_Assessment\UniverSity Course Registration System\bin\Debug\net8.0\UniverSity Course Registration System.exe
+C:\All semesters\Training\Boiler_Plate_Assessment\UniverSity Course Registration System\bin\Debug\net8.0\UniverSity Course Registration System.deps.json
+C:\All semesters\Training\Boiler_Plate_Assessment\UniverSity Course Registration System\bin\Debug\net8.0\UniverSity Course Registration System.runtimeconfig.json
+C:\All semesters\Training\Boiler_Plate_Assessment\UniverSity Course Registration System\bin\Debug\net8.0\UniverSity Course Registration System.dll
+C:\All semesters\Training\Boiler_Plate_Assessment\UniverSity Course Registration System\bin\Debug\net8.0\UniverSity Course Registration System.pdb
+C:\All semesters\Training\Boiler_Plate_Assessment\UniverSity Course Registration System\obj\Debug\net8.0\UniverSity Course Registration System.GeneratedMSBuildEditorConfig.editorconfig
+C:\All semesters\Training\Boiler_Plate_Assessment\UniverSity Course Registration System\obj\Debug\net8.0\UniverSity Course Registration System.AssemblyInfoInputs.cache
+C:\All semesters\Training\Boiler_Plate_Assessment\UniverSity Course Registration System\obj\Debug\net8.0\UniverSity Course Registration System.AssemblyInfo.cs
+C:\All semesters\Training\Boiler_Plate_Assessment\UniverSity Course Registration System\obj\Debug\net8.0\UniverSity Course Registration System.csproj.CoreCompileInputs.cache
+C:\All semesters\Training\Boiler_Plate_Assessment\UniverSity Course Registration System\obj\Debug\net8.0\UniverSity Course Registration System.sourcelink.json
+C:\All semesters\Training\Boiler_Plate_Assessment\UniverSity Course Registration System\obj\Debug\net8.0\UniverSity Course Registration System.dll
+C:\All semesters\Training\Boiler_Plate_Assessment\UniverSity Course Registration System\obj\Debug\net8.0\refint\UniverSity Course Registration System.dll
+C:\All semesters\Training\Boiler_Plate_Assessment\UniverSity Course Registration System\obj\Debug\net8.0\UniverSity Course Registration System.pdb
+C:\All semesters\Training\Boiler_Plate_Assessment\UniverSity Course Registration System\obj\Debug\net8.0\UniverSity Course Registration System.genruntimeconfig.cache
+C:\All semesters\Training\Boiler_Plate_Assessment\UniverSity Course Registration System\obj\Debug\net8.0\ref\UniverSity Course Registration System.dll
